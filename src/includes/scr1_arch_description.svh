@@ -119,7 +119,7 @@ parameter int unsigned          SCR1_CSR_MTVEC_BASE_VAL_BITS    = `SCR1_XLEN-SCR
 `define SCR1_DMEM_AXI_REQ_BP        // bypass data memory AXI bridge request register
 `define SCR1_DMEM_AXI_RESP_BP       // bypass data memory AXI bridge response register
 
-`define SCR1_TCM_EN                 // enables tightly-coupled memory
+//`define SCR1_TCM_EN                 // enables tightly-coupled memory
 
 //-------------------------------------------------------------------------------
 // Address constants
